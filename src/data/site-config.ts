@@ -81,7 +81,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi  👋',
-        text: 'I am a mobile app developer with 5+ years of experience building high-performance apps. I also contribute to open-source projects, mentor developers, and work on ClashLy. 🚀',
+        text: 'I am a mobile app developer with 5+ years of experience building high-performance apps. I also contribute to open-source projects and mentor developers.',
         image: {
             src: '/sangam512.jpg',
             alt: 'Image of Sangam Shrestha'
